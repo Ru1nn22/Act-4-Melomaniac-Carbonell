@@ -28,14 +28,6 @@
             </div>
         </nav>
         <!-- Header-->
-        <header class="bg-dark bg-gradient text-white">
-            <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Best Gen Music</h1>
-                <p class="lead">Music by Millenials for Millennials</p>
-                <p class="lead">"Live, Laugh, Love" -motivational poster from the late 2000s</p>
-                
-            </div>
-        </header>
         <!-- About section-->
         <section id="songs">
             <div class="container px-4">
